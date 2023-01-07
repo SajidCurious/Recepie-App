@@ -4,7 +4,7 @@ import Pages from "./Pages/Pages";
 function App() {
   return (
     <div>
-      <Home />
+      {/* <Home /> */}
       <Pages />
     </div>
   );
